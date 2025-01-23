@@ -1,5 +1,5 @@
 This is my file
-It has four lines. 
+It has six lines (Plus one blank line)
 This is the third line.
 Lets check it.
 Oooh line five.
