@@ -1,8 +1,7 @@
 This is my file
-It has six lines (Plus one blank line)
+It has four lines. 
 This is the third line.
 Lets check it.
 Oooh line five.
-
 OK lets try something different
-I dont know how many commits i have completed.
+
